@@ -14,7 +14,7 @@ Bazując na celach określonych przez Użytkownika (np. **redukcja smogu**, mini
 
 ![Turbiny wiatrowe](/img/0.jpg "Farma wiatraków")
 
-<img style="float: right;" src="/img/0.jpg"></img>
+!<img style="float: right;" src="/img/0.jpg"></img>
 
 ## Zefir tool
 
